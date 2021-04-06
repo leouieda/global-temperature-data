@@ -1,0 +1,14 @@
+name: global-temperature-data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8
+  - pip
+  - pooch
+  - numpy
+  - matplotlib
+  - beautifulsoup4
+  - tqdm
+  - jupyterlab
+  - jupyter
