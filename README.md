@@ -8,9 +8,4 @@ for introduction to programming classes.
 
 ## License
 
-Source code is distributed under the [MIT license](LICENSE.txt).
-
-The processed data is distributed under the
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0)
-license.
-
+The source code is distributed under the [MIT license](LICENSE.txt).
